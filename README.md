@@ -1,6 +1,5 @@
 # Online Voting System - README
 
-![Voting Website](https://example.com/voting_website_banner.png)
 
 ## Abstract
 
@@ -44,10 +43,6 @@ The Data Flow Diagram (DFD) illustrates the flow of data through the system at v
 
 - Security: The system must use high-level encryption for data transactions and store passwords securely. It should prevent serial attacks and unauthorized access.
 - Performance: The system should have reasonably short response times and minimal downtime during the voting process.
-
-## Getting Started
-
-To set up the Online Voting System locally or deploy it to a server, follow the instructions in the [Installation Guide](INSTALLATION.md).
 
 ## Usage
 
